@@ -1,6 +1,5 @@
 # ANN-Model-for-Fish-Data-Set
 This repo was constructed for "A Large Scale Fish Dataset" problem solving by using ANN.
-Proje linki: https://www.kaggle.com/code/beyzaercan/fishdatasetann
 Bu proje aşağıdaki adımlardan oluşmaktadır:
 •	Derin öğrenme için gerekli olan kütüphaneler kuruldu ve import edildi.
 •	Fotoğrafların bulunduğu dosya yolları üzerinden fotoğrafların ait olduğu balık isimlerini ve dosya yollarını tutan bir dataframe oluşturuldu ve balık sınıfı dağılımına görsel bakış sağlandı.
@@ -11,3 +10,4 @@ o	Train-Validation Loss Grafiği ve
 o	Train-Validation Accuracy Grafiğinden yararlanıldı.
 •	Son olarak modeli görmediği veri setinde değerlendirmek için test seti üzerinde model koşuldu ve modelin 80-85 aralığında doğruluk gösterdiği anlaşıldı. Bir de veri seti içinden rastgele seçilen bir nokta için doğru değer ve tahmin edilen değer karşılatırılması yapıldı.
 
+Proje linki: https://www.kaggle.com/code/beyzaercan/fishdatasetann
